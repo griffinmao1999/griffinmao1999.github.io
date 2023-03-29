@@ -1,0 +1,1 @@
+.gallery_page{border-radius:10px;width:100%;height:calc(100vh - 72px);height:calc(100vh - 72px - var(--browser-address-bar, 0px));background-color:var(--background);overflow:hidden;overflow-y:scroll;-ms-overflow-style:none;overflow:-moz-scrollbars-none;justify-content:center}.gallery_page::-webkit-scrollbar{width:0!important}
